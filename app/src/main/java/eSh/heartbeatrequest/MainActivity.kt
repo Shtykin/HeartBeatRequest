@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
     fun onClickGetRssi(view: View) {
         binding.tView.text="123"
         binding.tView.text="124"
+        binding.tView.text="125"
     }
 }
